@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://jchgu.rbind.io" 
+title: Jiancheng Gu
 paginate: 20
 theme: PaperMod
 
@@ -11,24 +11,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 1 
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "PhD Researcher in Migration Studies"
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -43,7 +34,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","data"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -54,47 +45,36 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
-          imageUrl: "picture.jpeg"
+          title: Jiancheng Gu
+          subtitle: "Welcome to my website! I am a PhD Researcher at the
+            [Department for Migration and Globalisation,](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
+            [Universität für Weiterbildung Krems.](https://www.donau-uni.ac.at/en/)
+            My research interests include quantitative migration studies, causal inference, and open science.
+            I work within the Horizon Europe project [Finding Agreement in Return (FAiR),](https://fair-return.org)
+            studying the policy outcomes on irregular migration and return."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
           buttons:
-            - name: Books
-              url: books/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
             - name: Data
               url: data/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:jiancheng.gu@donau-uni.ac.at
         - name: CV
           url: cv.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://scholar.google.com/citations?user=q4IU8RYAAAAJ
+        - name: orcid
+          url: https://orcid.org/0009-0002-3033-6472
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/jchgu
 
     assets:
         disableHLJS: true
@@ -103,7 +83,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Jiancheng Gu"
       icon: favicon.ico
       iconHeight: 18
 
