@@ -53,6 +53,10 @@ params:
             My research interests include quantitative migration studies, causal inference, and open science.
             I work within the Horizon Europe project [Finding Agreement in Return (FAiR),](https://fair-return.org)
             studying the policy outcomes on irregular migration and return."
+          imageUrl: "picture.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
 
     socialIcons:
         - name: Email
