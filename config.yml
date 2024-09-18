@@ -49,10 +49,13 @@ params:
           title: Jiancheng Gu
           subtitle: "Welcome to my website! I am a PhD Researcher at the
             [Department for Migration and Globalisation,](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
-            [Universität für Weiterbildung Krems.](https://www.donau-uni.ac.at/en/)
-            My research interests include quantitative migration studies, causal inference, and open science.
-            I work within the Horizon Europe project [Finding Agreement in Return (FAiR),](https://fair-return.org)
-            studying the policy outcomes on irregular migration and return."
+            [University for Continuing Education – Danube University Krems.](https://www.donau-uni.ac.at/en/)
+            I study migration policies and their impact, 
+            focusing on the interplay between European and Global Southern countries. 
+            My dissertation examines why governments sign agreements about returning irregular migrants, 
+            what factors influence the enforcement of return, 
+            and how these policies shape future migration patterns.
+            My PhD is funded by the Horizon Europe project [Finding Agreement in Return (FAiR).](https://fair-return.org)"
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
