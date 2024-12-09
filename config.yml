@@ -11,12 +11,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: CV
+          url: cv.pdf/
           weight: 2
-        - name: Data
-          url: data/
+        - name: "FAiR Project"
+          url: https://fair-return.org
           weight: 3 
+        - name: "Department"
+          url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
+          weight: 4           
 
 
 params:
@@ -48,8 +51,8 @@ params:
           enabled: true
           title: Jiancheng Gu
           subtitle: "Welcome to my website! I am a PhD Researcher at the
-            [Department for Migration and Globalisation,](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
-            [University for Continuing Education – Danube University Krems.](https://www.donau-uni.ac.at/en/)
+            Department for Migration and Globalisation,
+            University for Continuing Education – Danube University Krems.
             I study migration policies and their impact, 
             focusing on the interplay between European and Global Southern countries. 
             My dissertation examines why governments sign agreements about returning irregular migrants, 
@@ -64,8 +67,6 @@ params:
     socialIcons:
         - name: Email
           url: mailto:jiancheng.gu@donau-uni.ac.at
-        - name: CV
-          url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=q4IU8RYAAAAJ
         - name: orcid
@@ -73,7 +74,7 @@ params:
         - name: GitHub
           url: https://github.com/jchgu
         - name: Twitter
-          url: https://twitter.com/jch_gu
+          url: https://x.com/jch_gu
 
     assets:
         disableScrollBarStyle: true
