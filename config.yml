@@ -67,10 +67,10 @@ params:
         - name: CV
           url: cv.pdf/
           weight: 2
-        - name: "FAiR Project"
+        - name: FAiR Project
           url: https://fair-return.org
           weight: 3 
-        - name: "Department"
+        - name: Department
           url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
           weight: 4    
 
