@@ -66,11 +66,11 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
-          buttons:
-          - name: Department
-            url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
-            - name: FAiR Project
-              url: https://fair-return.org
+#          buttons:
+#         - name: Department
+#            url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
+#           - name: FAiR Project
+#              url: https://fair-return.org
 
 
     socialIcons:
