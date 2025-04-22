@@ -54,10 +54,12 @@ params:
           enabled: true
           title: Jiancheng Gu
           subtitle: 
-            "I work as a PhD researcher in migration and globalisation
-            at the University for Continuing Education Krems, Austria.
+            "Welcome to my website!
+            I work as a PhD researcher at the Department for Migration and Globalisation,
+            University for Continuing Education Krems, Austria.
             I study how countries negotiate and implement return policies targeting unauthorized migrants. 
-            My dissertation contributes to the Horizon Europe project [Finding Agreement in Return (FAiR)](https://fair-return.org)."
+            My dissertation contributes to the Horizon Europe project [Finding Agreement in Return (FAiR)](https://fair-return.org).
+            "
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
