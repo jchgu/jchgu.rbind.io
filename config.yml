@@ -53,14 +53,9 @@ params:
     profileMode:
           enabled: true
           title: Jiancheng Gu
-          subtitle: "Welcome to my website! I am a PhD Researcher at the
-            Department for Migration and Globalisation,
-            University for Continuing Education – Danube University Krems.
-            I study migration policies and their impact, 
-            focusing on the interplay between European and Global Southern countries. 
-            My dissertation examines why governments sign agreements about returning irregular migrants, 
-            what factors influence the enforcement of return, 
-            and how these policies shape future migration patterns.
+          subtitle: "Welcome! I work as a PhD Researcher in Migration and Globalisation,
+            at the University for Continuing Education Krems, Austria.
+            I study how countries negotiate and implement return policies targeting unauthorized migrants. 
             My PhD contributes to the Horizon Europe project [Finding Agreement in Return (FAiR)](https://fair-return.org)."
           imageUrl: "picture.jpg"
           imageWidth: 160
