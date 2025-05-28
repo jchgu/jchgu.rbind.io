@@ -1,27 +1,33 @@
-baseURL: "https://jchgu.rbind.io/" 
+baseURL: "https://jchgu.rbind.io" 
 title: Jiancheng Gu
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-pagination:
-  pagerSize: 20
 
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3
-
+#menu:
+#    main:
+#        - name: Books
+#          url: books/
+#          weight: 5 
+#        - name: Papers
+#          url: papers/
+#          weight: 2
+#        - name: Courses
+#          url: courses/
+#          weight: 3
+#        - name: Data
+#          url: data/
+#          weight: 4 
+#        - name: Blog
+#          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#          weight: 6
 
 params:
-    description: ""
+    description: "PhD Researcher in Migration Studies"
     author: Jiancheng Gu
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -36,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","data"]
+    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -47,33 +53,36 @@ params:
     profileMode:
           enabled: true
           title: Jiancheng Gu
-          subtitle: "Welcome! I am a PhD candidate and researcher at the Department for Migration and Globalisation, University for Continuing Education Krems, Austria. 
-          I study how countries negotiate and implement return policies targeting unauthorized migrants. My dissertation contributes to the Horizon Europe project Finding Agreement in Return (FAiR)."
-          imageUrl: "picture.jpeg"
+          subtitle: 
+            "Welcome!
+            I am a PhD candidate and researcher at the Department for Migration and Globalisation,
+            University for Continuing Education Krems, Austria.
+            I study how countries negotiate and implement return policies targeting unauthorized migrants. 
+            My dissertation contributes to the Horizon Europe project [Finding Agreement in Return (FAiR)](https://fair-return.org).
+            "
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+          imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
+#          buttons:
+#         - name: Department
+#            url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
+#           - name: FAiR Project
+#              url: https://fair-return.org
+
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:jiancheng.gu@donau-uni.ac.at
+        - name: CV
+          url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=q4IU8RYAAAAJ
         - name: orcid
           url: https://orcid.org/0009-0002-3033-6472
         - name: GitHub
           url: https://github.com/jchgu
-        - name: Bluesky
+        - name: bluesky
           url: https://bsky.app/profile/jchgu.bsky.social
 
     assets:
