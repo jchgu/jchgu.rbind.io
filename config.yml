@@ -48,11 +48,8 @@ params:
           enabled: true
           title: Jiancheng Gu
           subtitle: 
-          "Welcome! I am a PhD candidate and researcher at the 
-          Department for Migration and Globalisation, 
-          University for Continuing Education Krems, Austria. 
-          I study how countries negotiate and implement return policies targeting unauthorized migrants. 
-          My dissertation contributes to the Horizon Europe project Finding Agreement in Return (FAiR)."
+          "Welcome! I am a PhD candidate and researcher at the Department for Migration and Globalisation, University for Continuing Education Krems, Austria. 
+          I study how countries negotiate and implement return policies targeting unauthorized migrants. My dissertation contributes to the Horizon Europe project Finding Agreement in Return (FAiR)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -65,8 +62,6 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: 
 
     socialIcons:
         - name: CV
