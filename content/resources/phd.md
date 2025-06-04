@@ -1,6 +1,6 @@
 ---
 title: "Resources for PhD Students in Social Sciences" 
-date: "`r format(Sys.time(), '%d %b %Y')`"
+date: "June 2025"
 url: /resources/
 aliases: 
     - /phd.html
