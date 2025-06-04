@@ -65,7 +65,7 @@ params:
           imageHeight: 160
           imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
           buttons:
-         - name: "Resources for PhD"
+         - name: "Resources"
            url: resources/
 #           - name: FAiR Project
 #              url: https://fair-return.org
