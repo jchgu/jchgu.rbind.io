@@ -1,16 +1,16 @@
 ---
 title: "Resources for PhD Students in Social Sciences" 
-date: "`r format(Sys.time(), '%d %b %Y')`""
+date: "`r format(Sys.time(), '%d %b %Y')`"
 url: /resources/
 aliases: 
     - /phd.html
 tags: ["resources", "PhD"]
 author: ["Jiancheng Gu"]
-description: "Paper description for search engines (less than 155 characters)" 
+#description: "Paper description for search engines (less than 155 characters)" 
 summary: "Resources that I find helpful for my PhD journey"
+editPost:
+    URL: "https://jchgu.rbind.io/"
 ---
-
-# Resources for PhD Students in Social Sciences
 
 ## Writing
 
