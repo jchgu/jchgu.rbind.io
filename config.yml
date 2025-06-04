@@ -55,8 +55,8 @@ params:
           title: Jiancheng Gu
           subtitle: 
             "Welcome!
-            I am a researcher and PhD candidate in migration and globalisation
-            at the University for Continuing Education Krems, Austria.
+            I am a PhD candidate and researcher at the Department for Migration and Globalisation,
+            University for Continuing Education Krems, Austria.
             I study how countries negotiate and implement return policies targeting unauthorized migrants. 
             My dissertation contributes to the Horizon Europe project [Finding Agreement in Return (FAiR)](https://fair-return.org).
             "
@@ -64,9 +64,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Jiancheng Gu (Photo©Daniel Novotny)
-#          buttons:
-#         - name: Department
-#            url: https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html
+          buttons:
+         - name: "Resources for PhD"
+           url: resources/
 #           - name: FAiR Project
 #              url: https://fair-return.org
 
