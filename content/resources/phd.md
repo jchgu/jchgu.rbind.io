@@ -1,15 +1,15 @@
 ---
 title: "Resources for PhD Students in Social Sciences" 
 date: 2025-06-30
-url: /resources/
+url: /resources/phd
 aliases: 
     - /phd.html
 tags: ["resources", "PhD"]
 author: ["Jiancheng Gu"]
 description: "Resources about writing, AI, and PhD in Europe" 
 summary: "These resources are helpful for my PhD journey"
-#editPost:
-    #URL: "https://jchgu.rbind.io/"
+editPost:
+    URL: "https://jchgu.rbind.io/"
 ---
 
 ## Writing
