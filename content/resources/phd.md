@@ -1,6 +1,6 @@
 ---
 title: "Resources for PhD Students in Social Sciences" 
-date: 2025-06
+date: 2025-06-30
 url: /resources/
 aliases: 
     - /phd.html
