@@ -1,9 +1,9 @@
 ---
 title: "Resources for PhD Students in Social Sciences" 
-date: 2025-06-30
-url: /phd
-aliases: 
-    - /phd.html
+date: 2025-06-29
+#url: /phd
+#aliases: 
+    #- /phd.html
 tags: ["resources", "PhD"]
 author: ["Jiancheng Gu"]
 description: "Resources about writing, using AI, and doing PhD in Europe" 
