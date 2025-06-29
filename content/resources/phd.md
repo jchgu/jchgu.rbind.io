@@ -6,8 +6,8 @@ aliases:
     - /phd.html
 tags: ["resources", "PhD"]
 author: ["Jiancheng Gu"]
-#description: "Paper description for search engines (less than 155 characters)" 
-summary: "Resources that I find helpful for my PhD journey"
+description: "Resources about writing, AI, and PhD in Europe" 
+summary: "These resources are helpful for my PhD journey"
 #editPost:
     #URL: "https://jchgu.rbind.io/"
 ---
@@ -30,7 +30,6 @@ Two books on academic writing are helpful to me:
 - [The Sense of Style](https://www.penguin.co.uk/books/183573/the-sense-of-style-by-pinker-steven/9780241957714) by Steven Pinker
 
 Both have witty examples and clear instructions on what works and what does not. 
-
 
 ## AI
 
